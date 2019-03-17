@@ -4,7 +4,7 @@ https://www.buzzbuzzhome.com/GeoLocation/GeoLocation.asmx?op=GetLocations
 
 # Server response for Canada:
 
-<?xml version="1.0" encoding="UTF-8"?>
+```<?xml version="1.0" encoding="UTF-8"?>
 <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <soap:Body>
       <GetHolidaysAvailableResponse xmlns="http://www.holidaywebservice.com/HolidayService_v2/">
@@ -205,4 +205,5 @@ https://www.buzzbuzzhome.com/GeoLocation/GeoLocation.asmx?op=GetLocations
       </GetHolidaysAvailableResponse>
    </soap:Body>
 </soap:Envelope>
+```
 
