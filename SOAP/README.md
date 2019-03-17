@@ -2,8 +2,7 @@
 
 https://www.buzzbuzzhome.com/GeoLocation/GeoLocation.asmx?op=GetLocations
 
-# Server response:
-
+# Server response for Canada:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
